@@ -1,4 +1,4 @@
-# Sport-Vest
+**Design and Development of a Smart Sensor-Integrated Vest for Football Players: Monitoring Performance and Environmental Conditions**
 
 Sports vest designed for football (soccer) players to wear during games and training.    
 Created using Arduino IDE and Processing IDE, used C++ and Java    
