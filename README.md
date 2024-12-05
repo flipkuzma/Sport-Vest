@@ -1,7 +1,7 @@
 # Sport-Vest
 
 Sports vest designed for football (soccer) players to wear uring games and training.    
-Created using Arduine and Processing IDE, used C++ and Java    
+Created using Arduino IDE and Processing IDE, used C++ and Java    
 Implemented via FireBeetle board, FSR sensor, DHT11 sensor, UV sensor, and ECG AD8232 Sensor.    
 
 Paper:
